@@ -1,11 +1,11 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #a3c3ec; /* Very light grey */
+    background-color: #99c8df; /* Very light grey */
 }
 
 /* Style for all paragraphs */
 p {
-    color: rgb(68, 109, 185);
+    color: rgb(66, 119, 155);
     font-size: 16px;
     font-family:'Typewriter', serif;
 }
@@ -13,5 +13,5 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid rgb(30, 63, 134); /* Adds an orange border around the heading */
+    border: 2px solid rgb(41, 124, 192); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border *
